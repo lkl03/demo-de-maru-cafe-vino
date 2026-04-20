@@ -1,2 +1,7 @@
-# demo-de-maru-cafe-vino
-Demo web para De Maru cafe &amp; vino — diseñada por eterlab.
+# De Maru cafe & vino
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
